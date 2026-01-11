@@ -1,0 +1,17 @@
+com\parking\controller\ParkingController.class
+com\parking\model\TypePlace.class
+com\parking\controller\ReservationController.class
+com\parking\model\User.class
+com\parking\model\UserRole.class
+com\parking\util\DatabaseConnection.class
+com\parking\dao\PlaceDAO.class
+com\parking\model\Place.class
+com\parking\model\Parking.class
+com\parking\dao\ReservationDAO.class
+com\parking\dao\UserDAO.class
+com\parking\dao\ParkingDAO.class
+com\parking\controller\LoginController.class
+com\parking\model\ReservationStatut.class
+com\parking\controller\PlaceController.class
+com\parking\model\Reservation.class
+com\parking\model\PlaceStatut.class
